@@ -20,9 +20,9 @@ Sample data is provided for demonstration.
 &emsp; (actual data were represented by random numbers in this sample data)  
 &emsp;  - three-dimensional matrix : channel number x 80 (trials) x 10 (timepoints)  
 &emsp;  - ECoG signals were recorded at a sampling rate of 2000 Hz, recalculated using an average reference,   
-&emsp; &emsp; band-pass filtered (70 Hz to 150 Hz), and underwent the Hilbert transform
-&emsp;  - cut from 500 ms pre- to 2000 ms post-stimulus presentation in each trial
-&emsp;  - further divided into time bins of 250 ms, and the average HGP for each bin was calculated
+&emsp; &emsp; band-pass filtered (70 Hz to 150 Hz), and underwent the Hilbert transform  
+&emsp;  - cut from 500 ms pre- to 2000 ms post-stimulus presentation in each trial  
+&emsp;  - further divided into time bins of 250 ms, and the average HGP for each bin was calculated  
 * **data.tasklog**  
 &emsp; 1 in column 1 and 1 to 20 in column 2 represents abstract word category,  
 &emsp;&ensp; while 2 in column 2 and 21 to 40 in column 2 represents concrete word category  
