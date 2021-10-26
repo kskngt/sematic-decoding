@@ -15,7 +15,7 @@ Sample data is provided for demonstration.
 
 * **data.hemisphere**  
 &emsp; shows whether the recorded hemisphere was language-dominant or non-language-domionant  
-* **data.HGP**  
+* **data.meanHGP**  
 &emsp; contains window-meaned high gamma powers (HGPs) for each participant  
 &emsp; (actual data were represented by random numbers in this sample data)  
 &emsp;  - three-dimensional matrix : channel number x 80 (trials) x 10 (timepoints)  
