@@ -17,7 +17,7 @@ Sample data is provided for demonstration.
 &emsp; shows whether the recorded hemisphere was language-dominant or non-language-domionant  
 * **data.HGP**  
 &emsp; contains window-meaned high gamma powers (HGPs) for each participant  
-&emsp; (actual data were represented by random numbers in this sample data)
+&emsp; (actual data were represented by random numbers in this sample data)  
 &emsp;  - three-dimensional matrix : channel number x 80 (trials) x 10 (timepoints)  
 &emsp;  - ECoG signals were recorded at a sampling rate of 2000 Hz, recalculated using an average reference,   
 &emsp; &emsp; band-pass filtered (70 Hz to 150 Hz), and underwent the Hilbert transform
